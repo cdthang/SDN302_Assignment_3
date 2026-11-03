@@ -14,6 +14,7 @@ Get Attendance Summary of a Class : GET /api/classes/:id/attendance-summary
 ![Image](./picture/GetStudentByClassIdSuccess.png)
 
 Requirement 4:
+Get Attendance of a Student : GET /api/students/:id/attendances
 ![Image](./picture/GetAttendanceOfAStudentFail.png)
 ![Image](./picture/GetAttendanceOfAStudentFail(InValid%20ID).png)
 ![Image](./picture/GetAttendanceOfAStudentSuccess.png)
